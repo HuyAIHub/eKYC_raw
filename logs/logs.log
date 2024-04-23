@@ -1,0 +1,280 @@
+2023/11/13 15:48:27 logging_ekyc,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/11/13 15:48:27 logging_ekyc,line: 36     INFO | Logger object created successfully..
+2023/11/13 15:48:27 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 15:48:30 ocr,line: 38     INFO | TimeSegmentationYolov8: 2.704274892807007
+2023/11/13 15:48:30 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 15:48:30 ocr,line: 40     INFO | card_type_image: ['cmnd-cu', 'cmnd-cu']
+2023/11/13 15:48:30 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 15:48:30 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 15:48:30 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 15:48:35 app,line: 37     INFO | -------------------------NEW_SESSION----------------------------------
+2023/11/13 15:48:35 app,line: 38     INFO | GuildID  = : VCC
+2023/11/13 15:48:35 app,line: 39     INFO | User  = : 123
+2023/11/13 15:48:35 app,line: 40     INFO | numberrequest: 1
+2023/11/13 15:48:35 app,line: 41     INFO | path image 1: <tempfile.SpooledTemporaryFile object at 0x7f62c64781f0>
+2023/11/13 15:48:35 app,line: 42     INFO | path image 2: <tempfile.SpooledTemporaryFile object at 0x7f62c6478190>
+2023/11/13 15:48:35 app,line: 43     INFO | ip_client: 127.0.0.1
+2023/11/13 15:48:35 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 15:48:35 ocr,line: 38     INFO | TimeSegmentationYolov8: 0.33354735374450684
+2023/11/13 15:48:35 ocr,line: 39     INFO | card_side_predict: ['back', 'front']
+2023/11/13 15:48:35 ocr,line: 40     INFO | card_type_image: ['cmnd-cu', 'cmnd-cu']
+2023/11/13 15:48:35 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 15:48:35 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 15:48:35 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 15:53:41 logging_ekyc,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/11/13 15:53:41 logging_ekyc,line: 36     INFO | Logger object created successfully..
+2023/11/13 15:53:41 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 15:53:44 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 2.7110509872436523
+2023/11/13 15:53:44 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 15:53:44 ocr,line: 40     INFO | card_type_image: ['cmnd-cu', 'cmnd-cu']
+2023/11/13 15:53:44 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 15:53:44 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 15:53:44 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 15:53:47 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CHỨNG MINH NHÂN DÂN', 'identCardNumber': '152195313', 'identCardName': 'NGUYỄN HỮU ĐẠT', 'identCardBirthDate': '03-11-1998', 'identCardNation': 'Việt Nam', 'identCardEthnic': 'Kinh', 'identCardGender': '', 'identCardCountry': 'Xã Phú Lương, Huyện Đông Hưng, Thái Bình', 'identCardCountryCity': 'Thái Bình', 'identCardCountryDistrict': 'Đông Hưng', 'identCardCountryWards': 'Phú Lương', 'identCardCountryStreet': '', 'identCardAdrResidence': 'Xã Phú Lương, Huyện Đông Hưng, Thái Bình', 'identCardAdrResidenceCity': 'Thái Bình', 'identCardAdrResidenceDistrict': 'Đông Hưng', 'identCardAdrResidenceWards': 'Phú Lương', 'identCardAdrResidenceStreet': '', 'identCardIssueDate': '28/02/2013', 'identCardExpireDate': '', 'identCardIssuePlace': ''}
+2023/11/13 15:53:47 ocr,line: 105     INFO | Time Detect & Recogization Text: 2.6507532596588135
+2023/11/13 15:53:52 app,line: 37     INFO | -------------------------NEW_SESSION----------------------------------
+2023/11/13 15:53:52 app,line: 38     INFO | GuildID  = : VCC
+2023/11/13 15:53:52 app,line: 39     INFO | User  = : 123
+2023/11/13 15:53:52 app,line: 40     INFO | numberrequest: 1
+2023/11/13 15:53:52 app,line: 41     INFO | path image 1: <tempfile.SpooledTemporaryFile object at 0x7ff4bd4ac370>
+2023/11/13 15:53:52 app,line: 42     INFO | path image 2: <tempfile.SpooledTemporaryFile object at 0x7ff4bd4ac0a0>
+2023/11/13 15:53:52 app,line: 43     INFO | ip_client: 127.0.0.1
+2023/11/13 15:53:52 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 15:53:53 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 0.3530101776123047
+2023/11/13 15:53:53 ocr,line: 39     INFO | card_side_predict: ['back', 'front']
+2023/11/13 15:53:53 ocr,line: 40     INFO | card_type_image: ['cmnd-cu', 'cmnd-cu']
+2023/11/13 15:53:53 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 15:53:53 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 15:53:53 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 15:53:54 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CHỨNG MINH NHÂN DÂN', 'identCardNumber': '142297048', 'identCardName': 'ĐẶNG THỊ LA', 'identCardBirthDate': '27-7-1985', 'identCardNation': 'Việt Nam', 'identCardEthnic': 'Kinh', 'identCardGender': '', 'identCardCountry': 'Tứ Xuyên, Tứ Kỳ, Hải Dương', 'identCardCountryCity': 'Hải Dương', 'identCardCountryDistrict': 'Tứ Kỳ', 'identCardCountryWards': 'Tứ Xuyên', 'identCardCountryStreet': '', 'identCardAdrResidence': 'Tây Kỳ, Tứ Kỳ, H Dương', 'identCardAdrResidenceCity': 'H.Dương', 'identCardAdrResidenceDistrict': 'Tứ Kỳ', 'identCardAdrResidenceWards': 'Tây Kỳ', 'identCardAdrResidenceStreet': '', 'identCardIssueDate': '12/12/2017', 'identCardExpireDate': '', 'identCardIssuePlace': ''}
+2023/11/13 15:53:54 ocr,line: 105     INFO | Time Detect & Recogization Text: 1.1255407333374023
+2023/11/13 15:54:02 app,line: 37     INFO | -------------------------NEW_SESSION----------------------------------
+2023/11/13 15:54:02 app,line: 38     INFO | GuildID  = : VCC
+2023/11/13 15:54:02 app,line: 39     INFO | User  = : 123
+2023/11/13 15:54:02 app,line: 40     INFO | numberrequest: 2
+2023/11/13 15:54:02 app,line: 41     INFO | path image 1: <tempfile.SpooledTemporaryFile object at 0x7ff4bd49fd30>
+2023/11/13 15:54:02 app,line: 42     INFO | path image 2: <tempfile.SpooledTemporaryFile object at 0x7ff4bd49f9a0>
+2023/11/13 15:54:02 app,line: 43     INFO | ip_client: 127.0.0.1
+2023/11/13 15:54:02 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 15:54:02 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 0.35073328018188477
+2023/11/13 15:54:02 ocr,line: 39     INFO | card_side_predict: ['back', 'front']
+2023/11/13 15:54:02 ocr,line: 40     INFO | card_type_image: ['cmnd-cu', 'cmnd-cu']
+2023/11/13 15:54:02 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 15:54:02 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 15:54:02 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 15:54:03 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CHỨNG MINH NHÂN DÂN', 'identCardNumber': '01135488', 'identCardName': 'PHAN HUYỀN TRANG', 'identCardBirthDate': '24-02-1991', 'identCardNation': 'Việt Nam', 'identCardEthnic': 'Kinh', 'identCardGender': '', 'identCardCountry': 'An Lạc Tây, Kế Sách, Sóc Trăng', 'identCardCountryCity': 'Sóc Trăng', 'identCardCountryDistrict': 'Kế Sách', 'identCardCountryWards': 'An Lạc Tây', 'identCardCountryStreet': '', 'identCardAdrResidence': '27 Nguyễn Văn Cừ, Ninh Kiều, Tpcần Thơ', 'identCardAdrResidenceCity': 'Cần Thơ', 'identCardAdrResidenceDistrict': 'Ninh Kiều', 'identCardAdrResidenceWards': ' ', 'identCardAdrResidenceStreet': '27 Nguyễn Văn Cừ', 'identCardIssueDate': '12/12/2017', 'identCardExpireDate': '', 'identCardIssuePlace': ''}
+2023/11/13 15:54:03 ocr,line: 105     INFO | Time Detect & Recogization Text: 1.3979637622833252
+2023/11/13 15:55:06 logging_ekyc,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/11/13 15:55:06 logging_ekyc,line: 36     INFO | Logger object created successfully..
+2023/11/13 15:55:06 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 15:55:09 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 2.7770450115203857
+2023/11/13 15:55:09 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 15:55:09 ocr,line: 40     INFO | card_type_image: ['cmnd-cu', 'cmnd-cu']
+2023/11/13 15:55:09 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 15:55:09 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 15:55:09 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 15:55:11 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CHỨNG MINH NHÂN DÂN', 'identCardNumber': '152195313', 'identCardName': 'NGUYỄN HỮU ĐẠT', 'identCardBirthDate': '03-11-1998', 'identCardNation': 'Việt Nam', 'identCardEthnic': 'Kinh', 'identCardGender': '', 'identCardCountry': 'Xã Phú Lương, Huyện Đông Hưng, Thái Bình', 'identCardCountryCity': 'Thái Bình', 'identCardCountryDistrict': 'Đông Hưng', 'identCardCountryWards': 'Phú Lương', 'identCardCountryStreet': '', 'identCardAdrResidence': 'Xã Phú Lương, Huyện Đông Hưng, Thái Bình', 'identCardAdrResidenceCity': 'Thái Bình', 'identCardAdrResidenceDistrict': 'Đông Hưng', 'identCardAdrResidenceWards': 'Phú Lương', 'identCardAdrResidenceStreet': '', 'identCardIssueDate': '28/02/2013', 'identCardExpireDate': '', 'identCardIssuePlace': ''}
+2023/11/13 15:55:11 ocr,line: 105     INFO | Time Detect & Recogization Text: 2.688524007797241
+2023/11/13 15:56:14 app,line: 37     INFO | -------------------------NEW_SESSION----------------------------------
+2023/11/13 15:56:14 app,line: 38     INFO | GuildID  = : 1555
+2023/11/13 15:56:14 app,line: 39     INFO | User  = : VCC
+2023/11/13 15:56:14 app,line: 40     INFO | numberrequest: 1
+2023/11/13 15:56:14 app,line: 41     INFO | path image 1: <tempfile.SpooledTemporaryFile object at 0x7f27aac22700>
+2023/11/13 15:56:14 app,line: 42     INFO | path image 2: <tempfile.SpooledTemporaryFile object at 0x7f27aac22820>
+2023/11/13 15:56:14 app,line: 43     INFO | ip_client: 127.0.0.1
+2023/11/13 15:56:14 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 15:56:15 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 0.30221080780029297
+2023/11/13 15:56:15 ocr,line: 39     INFO | card_side_predict: ['', '']
+2023/11/13 15:56:15 ocr,line: 40     INFO | card_type_image: ['TOO_MANY_MASK', 'TOO_MANY_MASK']
+2023/11/13 15:56:27 app,line: 37     INFO | -------------------------NEW_SESSION----------------------------------
+2023/11/13 15:56:27 app,line: 38     INFO | GuildID  = : 1555
+2023/11/13 15:56:27 app,line: 39     INFO | User  = : VCC
+2023/11/13 15:56:27 app,line: 40     INFO | numberrequest: 2
+2023/11/13 15:56:27 app,line: 41     INFO | path image 1: <tempfile.SpooledTemporaryFile object at 0x7f27aac22460>
+2023/11/13 15:56:27 app,line: 42     INFO | path image 2: <tempfile.SpooledTemporaryFile object at 0x7f27aac22220>
+2023/11/13 15:56:27 app,line: 43     INFO | ip_client: 127.0.0.1
+2023/11/13 15:56:27 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 15:56:27 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 0.26716184616088867
+2023/11/13 15:56:27 ocr,line: 39     INFO | card_side_predict: ['', '']
+2023/11/13 15:56:27 ocr,line: 40     INFO | card_type_image: ['TOO_MANY_MASK', 'TOO_MANY_MASK']
+2023/11/13 15:56:51 app,line: 37     INFO | -------------------------NEW_SESSION----------------------------------
+2023/11/13 15:56:51 app,line: 38     INFO | GuildID  = : 1555
+2023/11/13 15:56:51 app,line: 39     INFO | User  = : VCC
+2023/11/13 15:56:51 app,line: 40     INFO | numberrequest: 3
+2023/11/13 15:56:51 app,line: 41     INFO | path image 1: <tempfile.SpooledTemporaryFile object at 0x7f27aac220d0>
+2023/11/13 15:56:51 app,line: 42     INFO | path image 2: <tempfile.SpooledTemporaryFile object at 0x7f27aac22670>
+2023/11/13 15:56:51 app,line: 43     INFO | ip_client: 127.0.0.1
+2023/11/13 15:56:51 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 15:56:51 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 0.32520151138305664
+2023/11/13 15:56:51 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 15:56:51 ocr,line: 40     INFO | card_type_image: ['cccd-chip', 'cccd-chip']
+2023/11/13 15:56:51 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 15:56:51 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 15:56:51 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 15:56:53 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CĂN CƯỚC CÔNG DÂN', 'identCardNumber': '070085002664', 'identCardName': 'TRẦN ANH TUẤN', 'identCardBirthDate': '20/05/1985', 'identCardNation': 'Việt Nam', 'identCardEthnic': '', 'identCardGender': 'Nam', 'identCardCountry': 'Chánh Mỹ, Thành Phố Thủ Dầu Một, Bình Dương', 'identCardCountryCity': 'Bình Dương', 'identCardCountryDistrict': 'Thủ Dầu Một', 'identCardCountryWards': 'Chánh Mỹ', 'identCardCountryStreet': '', 'identCardAdrResidence': 'Kpninh Thịnh, Thị Trấn Lộc Ninh, Lộc Ninh, Bình Phước', 'identCardAdrResidenceCity': 'Bình Phước', 'identCardAdrResidenceDistrict': 'Lộc Ninh', 'identCardAdrResidenceWards': 'Lộc Ninh', 'identCardAdrResidenceStreet': 'Kpninh Thịnh ', 'identCardIssueDate': '13/04/2021', 'identCardExpireDate': '20105//202', 'identCardIssuePlace': 'CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT TỰ XÃ HỘI'}
+2023/11/13 15:56:53 ocr,line: 105     INFO | Time Detect & Recogization Text: 1.4414477348327637
+2023/11/13 15:57:47 app,line: 37     INFO | -------------------------NEW_SESSION----------------------------------
+2023/11/13 15:57:47 app,line: 38     INFO | GuildID  = : 1555
+2023/11/13 15:57:47 app,line: 39     INFO | User  = : VCC
+2023/11/13 15:57:47 app,line: 40     INFO | numberrequest: 4
+2023/11/13 15:57:47 app,line: 41     INFO | path image 1: <tempfile.SpooledTemporaryFile object at 0x7f27aac22670>
+2023/11/13 15:57:47 app,line: 42     INFO | path image 2: <tempfile.SpooledTemporaryFile object at 0x7f27aac22820>
+2023/11/13 15:57:47 app,line: 43     INFO | ip_client: 127.0.0.1
+2023/11/13 15:57:47 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 15:57:47 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 0.2732503414154053
+2023/11/13 15:57:47 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 15:57:47 ocr,line: 40     INFO | card_type_image: ['cccd-chip', 'cccd-chip']
+2023/11/13 15:57:47 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 15:57:47 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 15:57:47 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 15:57:49 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CĂN CƯỚC CÔNG DÂN', 'identCardNumber': '044193002452', 'identCardName': 'HOÀNG THỊ PHÚC', 'identCardBirthDate': '30/09/1993', 'identCardNation': 'Việt Nam', 'identCardEthnic': '', 'identCardGender': 'Nữ', 'identCardCountry': 'Quảng Lộc, Thị Xã Ba Đồn, Quảng Bình Nơi Thường Trù/Placea Tres Đoàn, Quảng Bình', 'identCardCountryCity': 'Quảng Bình', 'identCardCountryDistrict': 'Ba Đồn', 'identCardCountryWards': 'Quảng Lộc', 'identCardCountryStreet': '', 'identCardAdrResidence': 'Vĩnh Phước, Quảng Lộc, Thị Xã Ba Đồn, Quảng Bình', 'identCardAdrResidenceCity': 'Quảng Bình', 'identCardAdrResidenceDistrict': 'Ba Đồn', 'identCardAdrResidenceWards': 'Quảng Lộc', 'identCardAdrResidenceStreet': 'Vĩnh Phước', 'identCardIssueDate': '13/04/2021', 'identCardExpireDate': '30/09/2033', 'identCardIssuePlace': 'CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT TỰ XÃ HỘI'}
+2023/11/13 15:57:49 ocr,line: 105     INFO | Time Detect & Recogization Text: 1.7547392845153809
+2023/11/13 16:01:54 logging_ekyc,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/11/13 16:01:54 logging_ekyc,line: 36     INFO | Logger object created successfully..
+2023/11/13 16:01:54 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 16:01:57 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 2.7289698123931885
+2023/11/13 16:01:57 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 16:01:57 ocr,line: 40     INFO | card_type_image: ['cmnd-cu', 'cmnd-cu']
+2023/11/13 16:01:57 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 16:01:57 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 16:01:57 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 16:02:00 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CHỨNG MINH NHÂN DÂN', 'identCardNumber': '152195313', 'identCardName': 'NGUYỄN HỮU ĐẠT', 'identCardBirthDate': '03-11-1998', 'identCardNation': 'Việt Nam', 'identCardEthnic': 'Kinh', 'identCardGender': '', 'identCardCountry': 'Xã Phú Lương, Huyện Đông Hưng, Thái Bình', 'identCardCountryCity': 'Thái Bình', 'identCardCountryDistrict': 'Đông Hưng', 'identCardCountryWards': 'Phú Lương', 'identCardCountryStreet': '', 'identCardAdrResidence': 'Xã Phú Lương, Huyện Đông Hưng, Thái Bình', 'identCardAdrResidenceCity': 'Thái Bình', 'identCardAdrResidenceDistrict': 'Đông Hưng', 'identCardAdrResidenceWards': 'Phú Lương', 'identCardAdrResidenceStreet': '', 'identCardIssueDate': '28/02/2013', 'identCardExpireDate': '', 'identCardIssuePlace': ''}
+2023/11/13 16:02:00 ocr,line: 105     INFO | Time Detect & Recogization Text: 2.548232316970825
+2023/11/13 16:02:15 app,line: 37     INFO | -------------------------NEW_SESSION----------------------------------
+2023/11/13 16:02:15 app,line: 38     INFO | GuildID  = : 1555
+2023/11/13 16:02:15 app,line: 39     INFO | User  = : VCC
+2023/11/13 16:02:15 app,line: 40     INFO | numberrequest: 1
+2023/11/13 16:02:15 app,line: 41     INFO | path image 1: <tempfile.SpooledTemporaryFile object at 0x7fcd77c69d60>
+2023/11/13 16:02:15 app,line: 42     INFO | path image 2: <tempfile.SpooledTemporaryFile object at 0x7fcd77c696d0>
+2023/11/13 16:02:15 app,line: 43     INFO | ip_client: 127.0.0.1
+2023/11/13 16:02:15 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 16:02:15 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 0.2953355312347412
+2023/11/13 16:02:15 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 16:02:15 ocr,line: 40     INFO | card_type_image: ['cccd-chip', 'cccd-chip']
+2023/11/13 16:02:15 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 16:02:15 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 16:02:15 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 16:03:04 logging_ekyc,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/11/13 16:03:04 logging_ekyc,line: 36     INFO | Logger object created successfully..
+2023/11/13 16:03:05 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 16:03:07 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 2.6948633193969727
+2023/11/13 16:03:07 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 16:03:07 ocr,line: 40     INFO | card_type_image: ['cmnd-cu', 'cmnd-cu']
+2023/11/13 16:03:07 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 16:03:07 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 16:03:07 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 16:03:10 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CHỨNG MINH NHÂN DÂN', 'identCardNumber': '152195313', 'identCardName': 'NGUYỄN HỮU ĐẠT', 'identCardBirthDate': '03-11-1998', 'identCardNation': 'Việt Nam', 'identCardEthnic': 'Kinh', 'identCardGender': '', 'identCardCountry': 'Xã Phú Lương, Huyện Đông Hưng, Thái Bình', 'identCardCountryCity': 'Thái Bình', 'identCardCountryDistrict': 'Đông Hưng', 'identCardCountryWards': 'Phú Lương', 'identCardCountryStreet': '', 'identCardAdrResidence': 'Xã Phú Lương, Huyện Đông Hưng, Thái Bình', 'identCardAdrResidenceCity': 'Thái Bình', 'identCardAdrResidenceDistrict': 'Đông Hưng', 'identCardAdrResidenceWards': 'Phú Lương', 'identCardAdrResidenceStreet': '', 'identCardIssueDate': '28/02/2013', 'identCardExpireDate': '', 'identCardIssuePlace': ''}
+2023/11/13 16:03:10 ocr,line: 105     INFO | Time Detect & Recogization Text: 2.5573678016662598
+2023/11/13 16:03:32 logging_ekyc,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/11/13 16:03:32 logging_ekyc,line: 36     INFO | Logger object created successfully..
+2023/11/13 16:03:32 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 16:03:34 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 2.740722417831421
+2023/11/13 16:03:34 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 16:03:34 ocr,line: 40     INFO | card_type_image: ['cmnd-cu', 'cmnd-cu']
+2023/11/13 16:03:34 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 16:03:34 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 16:03:34 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 16:03:37 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CHỨNG MINH NHÂN DÂN', 'identCardNumber': '152195313', 'identCardName': 'NGUYỄN HỮU ĐẠT', 'identCardBirthDate': '03-11-1998', 'identCardNation': 'Việt Nam', 'identCardEthnic': 'Kinh', 'identCardGender': '', 'identCardCountry': 'Xã Phú Lương, Huyện Đông Hưng, Thái Bình', 'identCardCountryCity': 'Thái Bình', 'identCardCountryDistrict': 'Đông Hưng', 'identCardCountryWards': 'Phú Lương', 'identCardCountryStreet': '', 'identCardAdrResidence': 'Xã Phú Lương, Huyện Đông Hưng, Thái Bình', 'identCardAdrResidenceCity': 'Thái Bình', 'identCardAdrResidenceDistrict': 'Đông Hưng', 'identCardAdrResidenceWards': 'Phú Lương', 'identCardAdrResidenceStreet': '', 'identCardIssueDate': '28/02/2013', 'identCardExpireDate': '', 'identCardIssuePlace': ''}
+2023/11/13 16:03:37 ocr,line: 105     INFO | Time Detect & Recogization Text: 2.5347278118133545
+2023/11/13 16:03:38 app,line: 37     INFO | -------------------------NEW_SESSION----------------------------------
+2023/11/13 16:03:38 app,line: 38     INFO | GuildID  = : 1555
+2023/11/13 16:03:38 app,line: 39     INFO | User  = : VCC
+2023/11/13 16:03:38 app,line: 40     INFO | numberrequest: 1
+2023/11/13 16:03:38 app,line: 41     INFO | path image 1: <tempfile.SpooledTemporaryFile object at 0x7f327b3adcd0>
+2023/11/13 16:03:38 app,line: 42     INFO | path image 2: <tempfile.SpooledTemporaryFile object at 0x7f327b3ade50>
+2023/11/13 16:03:38 app,line: 43     INFO | ip_client: 127.0.0.1
+2023/11/13 16:03:38 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 16:03:38 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 0.2812063694000244
+2023/11/13 16:03:38 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 16:03:38 ocr,line: 40     INFO | card_type_image: ['cccd-chip', 'cccd-chip']
+2023/11/13 16:03:38 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 16:03:39 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 16:03:39 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 16:03:40 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CĂN CƯỚC CÔNG DÂN', 'identCardNumber': '044193002452', 'identCardName': 'HOÀNG THỊ PHÚC', 'identCardBirthDate': '30/09/1993', 'identCardNation': 'Việt Nam', 'identCardEthnic': '', 'identCardGender': 'Nữ', 'identCardCountry': 'Quảng Lộc, Thị Xã Ba Đồn, Quảng Bình Nơi Thường Trù/Placea Tres Đoàn, Quảng Bình', 'identCardCountryCity': 'Quảng Bình', 'identCardCountryDistrict': 'Ba Đồn', 'identCardCountryWards': 'Quảng Lộc', 'identCardCountryStreet': '', 'identCardAdrResidence': 'Vĩnh Phước, Quảng Lộc, Thị Xã Ba Đồn, Quảng Bình', 'identCardAdrResidenceCity': 'Quảng Bình', 'identCardAdrResidenceDistrict': 'Ba Đồn', 'identCardAdrResidenceWards': 'Quảng Lộc', 'identCardAdrResidenceStreet': 'Vĩnh Phước', 'identCardIssueDate': '13/04/2021', 'identCardExpireDate': '30/09/2033', 'identCardIssuePlace': 'CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT TỰ XÃ HỘI'}
+2023/11/13 16:03:40 ocr,line: 105     INFO | Time Detect & Recogization Text: 1.6419708728790283
+2023/11/13 16:04:54 logging_ekyc,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/11/13 16:04:54 logging_ekyc,line: 36     INFO | Logger object created successfully..
+2023/11/13 16:04:54 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 16:04:57 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 2.716651678085327
+2023/11/13 16:04:57 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 16:04:57 ocr,line: 40     INFO | card_type_image: ['cmnd-cu', 'cmnd-cu']
+2023/11/13 16:04:57 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 16:04:57 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 16:04:57 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 16:04:59 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CHỨNG MINH NHÂN DÂN', 'identCardNumber': '152195313', 'identCardName': 'NGUYỄN HỮU ĐẠT', 'identCardBirthDate': '03-11-1998', 'identCardNation': 'Việt Nam', 'identCardEthnic': 'Kinh', 'identCardGender': '', 'identCardCountry': 'Xã Phú Lương, Huyện Đông Hưng, Thái Bình', 'identCardCountryCity': 'Thái Bình', 'identCardCountryDistrict': 'Đông Hưng', 'identCardCountryWards': 'Phú Lương', 'identCardCountryStreet': '', 'identCardAdrResidence': 'Xã Phú Lương, Huyện Đông Hưng, Thái Bình', 'identCardAdrResidenceCity': 'Thái Bình', 'identCardAdrResidenceDistrict': 'Đông Hưng', 'identCardAdrResidenceWards': 'Phú Lương', 'identCardAdrResidenceStreet': '', 'identCardIssueDate': '28/02/2013', 'identCardExpireDate': '', 'identCardIssuePlace': ''}
+2023/11/13 16:04:59 ocr,line: 105     INFO | Time Detect & Recogization Text: 2.5965576171875
+2023/11/13 16:05:01 app,line: 37     INFO | -------------------------NEW_SESSION----------------------------------
+2023/11/13 16:05:01 app,line: 38     INFO | GuildID  = : 1555
+2023/11/13 16:05:01 app,line: 39     INFO | User  = : VCC
+2023/11/13 16:05:01 app,line: 40     INFO | numberrequest: 1
+2023/11/13 16:05:01 app,line: 41     INFO | path image 1: <tempfile.SpooledTemporaryFile object at 0x7f5a51c04e50>
+2023/11/13 16:05:01 app,line: 42     INFO | path image 2: <tempfile.SpooledTemporaryFile object at 0x7f5a51c04fd0>
+2023/11/13 16:05:01 app,line: 43     INFO | ip_client: 127.0.0.1
+2023/11/13 16:05:01 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 16:05:01 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 0.27468228340148926
+2023/11/13 16:05:01 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 16:05:01 ocr,line: 40     INFO | card_type_image: ['cccd-chip', 'cccd-chip']
+2023/11/13 16:05:02 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 16:05:02 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 16:05:02 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 16:05:03 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CĂN CƯỚC CÔNG DÂN', 'identCardNumber': '044193002452', 'identCardName': 'HOÀNG THỊ PHÚC', 'identCardBirthDate': '30/09/1993', 'identCardNation': 'Việt Nam', 'identCardEthnic': '', 'identCardGender': 'Nữ', 'identCardCountry': 'Quảng Lộc, Thị Xã Ba Đồn, Quảng Bình Nơi Thường Trù/Placea Tres Đoàn, Quảng Bình', 'identCardCountryCity': 'Quảng Bình', 'identCardCountryDistrict': 'Ba Đồn', 'identCardCountryWards': 'Quảng Lộc', 'identCardCountryStreet': '', 'identCardAdrResidence': 'Vĩnh Phước, Quảng Lộc, Thị Xã Ba Đồn, Quảng Bình', 'identCardAdrResidenceCity': 'Quảng Bình', 'identCardAdrResidenceDistrict': 'Ba Đồn', 'identCardAdrResidenceWards': 'Quảng Lộc', 'identCardAdrResidenceStreet': 'Vĩnh Phước', 'identCardIssueDate': '13/04/2021', 'identCardExpireDate': '30/09/2033', 'identCardIssuePlace': 'CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT TỰ XÃ HỘI'}
+2023/11/13 16:05:03 ocr,line: 105     INFO | Time Detect & Recogization Text: 1.6930150985717773
+2023/11/13 16:05:41 logging_ekyc,line: 35     INFO | +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023/11/13 16:05:41 logging_ekyc,line: 36     INFO | Logger object created successfully..
+2023/11/13 16:05:41 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 16:05:43 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 2.676462173461914
+2023/11/13 16:05:43 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 16:05:43 ocr,line: 40     INFO | card_type_image: ['cmnd-cu', 'cmnd-cu']
+2023/11/13 16:05:43 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 16:05:44 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 16:05:44 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 16:05:46 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CHỨNG MINH NHÂN DÂN', 'identCardNumber': '152195313', 'identCardName': 'NGUYỄN HỮU ĐẠT', 'identCardBirthDate': '03-11-1998', 'identCardNation': 'Việt Nam', 'identCardEthnic': 'Kinh', 'identCardGender': '', 'identCardCountry': 'Xã Phú Lương, Huyện Đông Hưng, Thái Bình', 'identCardCountryCity': 'Thái Bình', 'identCardCountryDistrict': 'Đông Hưng', 'identCardCountryWards': 'Phú Lương', 'identCardCountryStreet': '', 'identCardAdrResidence': 'Xã Phú Lương, Huyện Đông Hưng, Thái Bình', 'identCardAdrResidenceCity': 'Thái Bình', 'identCardAdrResidenceDistrict': 'Đông Hưng', 'identCardAdrResidenceWards': 'Phú Lương', 'identCardAdrResidenceStreet': '', 'identCardIssueDate': '28/02/2013', 'identCardExpireDate': '', 'identCardIssuePlace': ''}
+2023/11/13 16:05:46 ocr,line: 105     INFO | Time Detect & Recogization Text: 2.576751708984375
+2023/11/13 16:05:48 app,line: 37     INFO | -------------------------NEW_SESSION----------------------------------
+2023/11/13 16:05:48 app,line: 38     INFO | GuildID  = : 1555
+2023/11/13 16:05:48 app,line: 39     INFO | User  = : VCC
+2023/11/13 16:05:48 app,line: 40     INFO | numberrequest: 1
+2023/11/13 16:05:48 app,line: 41     INFO | path image 1: <tempfile.SpooledTemporaryFile object at 0x7f2d55f5f910>
+2023/11/13 16:05:48 app,line: 42     INFO | path image 2: <tempfile.SpooledTemporaryFile object at 0x7f2d55f5f280>
+2023/11/13 16:05:48 app,line: 43     INFO | ip_client: 127.0.0.1
+2023/11/13 16:05:48 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 16:05:49 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 0.28109264373779297
+2023/11/13 16:05:49 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 16:05:49 ocr,line: 40     INFO | card_type_image: ['cccd-chip', 'cccd-chip']
+2023/11/13 16:05:49 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 16:05:49 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 16:05:49 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 16:05:50 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CĂN CƯỚC CÔNG DÂN', 'identCardNumber': '044193002452', 'identCardName': 'HOÀNG THỊ PHÚC', 'identCardBirthDate': '30/09/1993', 'identCardNation': 'Việt Nam', 'identCardEthnic': '', 'identCardGender': 'Nữ', 'identCardCountry': 'Quảng Lộc, Thị Xã Ba Đồn, Quảng Bình Nơi Thường Trù/Placea Tres Đoàn, Quảng Bình', 'identCardCountryCity': 'Quảng Bình', 'identCardCountryDistrict': 'Ba Đồn', 'identCardCountryWards': 'Quảng Lộc', 'identCardCountryStreet': '', 'identCardAdrResidence': 'Vĩnh Phước, Quảng Lộc, Thị Xã Ba Đồn, Quảng Bình', 'identCardAdrResidenceCity': 'Quảng Bình', 'identCardAdrResidenceDistrict': 'Ba Đồn', 'identCardAdrResidenceWards': 'Quảng Lộc', 'identCardAdrResidenceStreet': 'Vĩnh Phước', 'identCardIssueDate': '13/04/2021', 'identCardExpireDate': '30/09/2033', 'identCardIssuePlace': 'CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT TỰ XÃ HỘI'}
+2023/11/13 16:05:50 ocr,line: 105     INFO | Time Detect & Recogization Text: 1.7438361644744873
+2023/11/13 16:06:56 app,line: 37     INFO | -------------------------NEW_SESSION----------------------------------
+2023/11/13 16:06:56 app,line: 38     INFO | GuildID  = : 1555
+2023/11/13 16:06:56 app,line: 39     INFO | User  = : VCC
+2023/11/13 16:06:56 app,line: 40     INFO | numberrequest: 2
+2023/11/13 16:06:56 app,line: 41     INFO | path image 1: <tempfile.SpooledTemporaryFile object at 0x7f2d55f5f550>
+2023/11/13 16:06:56 app,line: 42     INFO | path image 2: <tempfile.SpooledTemporaryFile object at 0x7f2d55f5fa90>
+2023/11/13 16:06:56 app,line: 43     INFO | ip_client: 127.0.0.1
+2023/11/13 16:06:56 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 16:06:57 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 0.3596158027648926
+2023/11/13 16:06:57 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 16:06:57 ocr,line: 40     INFO | card_type_image: ['cccd-chip', 'cccd-chip']
+2023/11/13 16:06:57 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 16:06:57 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 16:06:57 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 16:06:58 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CĂN CƯỚC CÔNG DÂN', 'identCardNumber': '037087000619', 'identCardName': 'TRỊNH QUỐC CÔNG', 'identCardBirthDate': '15/10/1987', 'identCardNation': 'Việt Nam', 'identCardEthnic': '', 'identCardGender': 'Nam', 'identCardCountry': 'Gia Thịnh, Gia Viễn, Ninh Bình', 'identCardCountryCity': 'Ninh Bình', 'identCardCountryDistrict': 'Gia Viễn', 'identCardCountryWards': 'Gia Thịnh', 'identCardCountryStreet': '', 'identCardAdrResidence': 'Thôn 1, Trinh Phú, Gia Thịnh, Gia Viễn, Ninh Bình', 'identCardAdrResidenceCity': 'Ninh Bình', 'identCardAdrResidenceDistrict': 'Gia Viễn', 'identCardAdrResidenceWards': 'Gia Thịnh', 'identCardAdrResidenceStreet': 'Thôn 1  Trinh Phú', 'identCardIssueDate': '13/04/2021', 'identCardExpireDate': '15/10/2027', 'identCardIssuePlace': 'CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT TỰ XÃ HỘI'}
+2023/11/13 16:06:58 ocr,line: 105     INFO | Time Detect & Recogization Text: 1.3057136535644531
+2023/11/13 16:07:22 app,line: 37     INFO | -------------------------NEW_SESSION----------------------------------
+2023/11/13 16:07:22 app,line: 38     INFO | GuildID  = : 1555
+2023/11/13 16:07:22 app,line: 39     INFO | User  = : VCC
+2023/11/13 16:07:22 app,line: 40     INFO | numberrequest: 3
+2023/11/13 16:07:22 app,line: 41     INFO | path image 1: <tempfile.SpooledTemporaryFile object at 0x7f2d55f5f700>
+2023/11/13 16:07:22 app,line: 42     INFO | path image 2: <tempfile.SpooledTemporaryFile object at 0x7f2d55f5f430>
+2023/11/13 16:07:22 app,line: 43     INFO | ip_client: 127.0.0.1
+2023/11/13 16:07:22 ocr,line: 32     INFO | DETECT CROP CARD USING YOLOV8 SEGMENTATION
+2023/11/13 16:07:22 ocr,line: 38     INFO | Time Segmentation & Classification Yolov8: 0.3019235134124756
+2023/11/13 16:07:22 ocr,line: 39     INFO | card_side_predict: ['front', 'back']
+2023/11/13 16:07:22 ocr,line: 40     INFO | card_type_image: ['cccd-chip', 'cccd-chip']
+2023/11/13 16:07:22 ocr,line: 82     INFO | DETECT COLOR
+2023/11/13 16:07:22 ocr,line: 90     INFO | CHECK QUALITY IMAGE CARD
+2023/11/13 16:07:22 ocr,line: 101     INFO | DETECT & RECOGNIZED TEXT
+2023/11/13 16:07:24 detect_recognize_face_text,line: 45     INFO | result_ocr: {'identCardType': 'CĂN CƯỚC CÔNG DÂN', 'identCardNumber': '084191004086', 'identCardName': 'TRẦN THỊ PHỤNG', 'identCardBirthDate': '25/10/1991', 'identCardNation': 'Việt Nam', 'identCardEthnic': '', 'identCardGender': 'Nữ', 'identCardCountry': 'Long Khánh B, Hồng Ngự, Đồng Tháp', 'identCardCountryCity': 'Đồng Tháp', 'identCardCountryDistrict': 'Hồng Ngự', 'identCardCountryWards': 'Long Khánh B', 'identCardCountryStreet': '', 'identCardAdrResidence': '73/35 Hai Bà Trưng, Vĩnh Quang, Rạch Giá, Kiên Giang', 'identCardAdrResidenceCity': 'Kiên Giang', 'identCardAdrResidenceDistrict': 'Rạch Giá', 'identCardAdrResidenceWards': 'Vĩnh Quang', 'identCardAdrResidenceStreet': '73/35 Hai Bà Trưng', 'identCardIssueDate': '13/04/2021', 'identCardExpireDate': '25/10/2031', 'identCardIssuePlace': 'CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT TỰ XÃ HỘI'}
+2023/11/13 16:07:24 ocr,line: 105     INFO | Time Detect & Recogization Text: 1.353980302810669

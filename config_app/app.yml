@@ -1,0 +1,30 @@
+server:
+  ip_address: '0.0.0.0'
+  port: '8003'
+  saved_data_path: 'result'
+parameter:
+  save_img: True
+  conf_segment_card: 0.7
+  conf_classifiaction: 0.5
+  conf_detect_text: 0.58
+
+
+class_names:
+  NhanDang: 0
+  NgayCap: 1
+  TroTrai: 2
+  TroPhai: 3
+  SoDinhDanh: 4
+  dantoc: 5
+  tongiao: 6
+  Loaithe: 7
+  Maso: 8
+  Hoten: 9
+  Namsinh: 10
+  Gioitinh: 11
+  Quoctich: 12
+  Quequan: 13
+  Noithuongtru: 14
+  Anh: 15
+  HSD: 16
+  QR: 17
